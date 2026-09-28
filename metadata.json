@@ -1,0 +1,6 @@
+{
+  "name": "Consulta às Bases Operacionais e Alertas Climáticos",
+  "description": "Sistema de consulta às bases operacionais com monitoramento em tempo real de clima extremo e alertas meteorológicos atualizados a cada 3 minutos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
